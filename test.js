@@ -1,5 +1,5 @@
 // Require the built in 'assertion' library
-let calcArea = require('index.js');
+let calcArea = require('./index.js');
 let assert = require('assert');
 // Create a test suite (group) called Math
 describe('Area Calculations', function () {
